@@ -45,17 +45,17 @@
 
 ### 🔥 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmada3mar&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmada3mar&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmada3mar&show_icons=true&theme=radical" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmada3mar&theme=radical" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmada3mar&theme=radical" width="98%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmada3mar&theme=radical" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmada3mar&layout=compact&theme=radical" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmada3mar&theme=radical" width="98%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmada3mar&layout=compact&theme=radical" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmada3mar&theme=radical" width="100%"/>
 </p>
 
 ---
