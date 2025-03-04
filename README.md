@@ -8,7 +8,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack  
 
 #### **Backend**
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
@@ -45,8 +45,17 @@
 
 ### 🔥 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmademar&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmademar&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmada3mar&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmada3mar&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmada3mar&theme=radical" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmada3mar&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmada3mar&theme=radical" width="98%"/>
 </p>
 
 ---
@@ -55,6 +64,11 @@
 - 🧠 AI-driven automation for customer support  
 - 📊 Advanced MongoDB aggregations in Laravel  
 - 🔐 Enhancing security in API-based payment systems  
+
+---
+
+### 💡 Quote to Live By  
+> **"Great code is like a signature—recognizable, elegant, and impossible to replicate."**  
 
 ---
 
@@ -71,10 +85,6 @@
   </a>
 </p>
 
----
-
-### 💡 Quote to Live By  
-> **"Great code is like a signature—recognizable, elegant, and impossible to replicate."**
 ---
 
 🚀 *If you're working on something exciting, let's connect and build something amazing!*
