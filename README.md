@@ -58,6 +58,16 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmada3mar&theme=radical" width="100%"/>
 </p>
 
+
+---
+
+### 🏆 GitHub Trophies & Ranking  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmada3mar&theme=radical&no-frame=true&margin-w=15&row=2&column=4" />
+</p>
+
+
 ---
 
 ### 🌱 Currently Exploring  
